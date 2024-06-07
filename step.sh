@@ -56,6 +56,6 @@ manual_scaling:
 
 gcloud config set app/cloud_build_timeout 1000
 gcloud app deploy
-
+ 
 
 ## Access in https://<PROJECT_ID>.appspot.com
